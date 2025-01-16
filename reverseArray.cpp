@@ -23,7 +23,7 @@ int main()
     return 0;
 }
 
-//TC = O(logn)
+//TC = O(n)
 
 /*
 while (p1<p2)
